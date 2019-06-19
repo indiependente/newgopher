@@ -15,6 +15,9 @@ A collection of resources to help new Gophers to get started
 **Videos and playlists**
 1. [Go Lang Practical Programming Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
 
+**Interactive tours**
+1. [A tour of Go](https://tour.golang.org/welcome/1)
+
 ## What to do after A tour of Go?
 **Blog posts, articles**
 1. [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
