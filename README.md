@@ -21,6 +21,7 @@ A collection of resources to help new Gophers to get started
 ## What to do after A tour of Go?
 **Blog posts, articles**
 1. [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
+2. [Gophercises](https://gophercises.com/)
 
 **Videos and playlists**
 1. [Just For Func](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
