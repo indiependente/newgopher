@@ -13,17 +13,20 @@ A collection of resources to help new Gophers to get started
 1. [Golangbot](https://golangbot.com/learn-golang-series/)
 
 **Videos and playlists**
-1. [Golang Practical Programming Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
+- [Golang Practical Programming Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
 
 **Interactive tours**
-1. [A tour of Go](https://tour.golang.org/welcome/1)
+- [A tour of Go](https://tour.golang.org/welcome/1)
 
 ## What to do after A tour of Go?
+**Learn about testing**
+- https://quii.gitbook.io/learn-go-with-tests/
+
 **Excercises**
-1. [Gophercises](https://gophercises.com/)
+- [Gophercises](https://gophercises.com/)
 
 **Blog posts, articles**
-1. [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
+- [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 
 
 **Videos and playlists**
