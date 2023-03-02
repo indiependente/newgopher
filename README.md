@@ -13,7 +13,7 @@ A collection of resources to help new Gophers to get started
 1. [Golangbot](https://golangbot.com/learn-golang-series/)
 
 **Videos and playlists**
-1. [Go Lang Practical Programming Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
+1. [Golang Practical Programming Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
 
 **Interactive tours**
 1. [A tour of Go](https://tour.golang.org/welcome/1)
