@@ -3,7 +3,7 @@ A collection of resources to help new Gophers to get started
 
 ## Get familiar with the language
 **Books**
-1. [The Go Programming Lamnguage](https://www.amazon.co.uk/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
+1. [The Go Programming Language](https://www.amazon.co.uk/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
 1. [Go in Practice](https://www.amazon.co.uk/Go-Practice-Matt-Butcher/dp/1633430073/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=BNRMJ75M282E1PJTW3Y1)
 1. [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)
 1. [Golang bootcamp](http://www.golangbootcamp.com/)
